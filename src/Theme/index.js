@@ -10,6 +10,12 @@ const theme = createTheme({
     secondary: {
       main: Secondary,
     },
+    white: {
+      main: "#ffffff",
+    },
+    black: {
+      main: "#000000",
+    },
   },
   typography: {
     fontFamily: "montserrat, sans-serif",
